@@ -51,7 +51,7 @@ Before making a pull request, please consider the following:
 |--|--|--|
 | JavaScript Animations with Anime.js |https://medium.com/@ajmeyghani/creating-javascript-animations-with-anime-js-f2b14716cdc6 |$5/m|
 
-## CSS/HTML (Sometimes a bit of JS but mostly CSS and HTML)
+## HTML/CSS/JS
 
   | What you build| Source | Price |
 |--|--|--|
