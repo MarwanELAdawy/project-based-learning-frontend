@@ -3,7 +3,7 @@
 Frontend development is challenging to learn. What helped me a lot was not only to learn theory, but to program something every day. If you are a beginner or already working as a frontend developer or designer you can benefit from this list. 
 
 ### Support this Project
-If this list helps you, I'd be happy if you'd support me. You can buy stickers or support me directly via buy me a coffee. This enables me to do many more such projects and to keep this list up to date. 
+If this list helps you, I'd be happy if you'd support me. You can buy stickers or support me directly via buy me a coffee. This enables me to extend this list, keep this list up to date and to do many more such projects. 
 
 You can do this either by buying [stickers or T-shirts](https://teespring.com/stores/webdev-4) or by supporting me directly via [Buy me a Coffee](https://www.buymeacoffee.com/binconsole)
 
