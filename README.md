@@ -9,18 +9,6 @@ You can do this either by buying [stickers or T-shirts](https://teespring.com/st
 
 Thank you.
 
-
-### Contribution 
-Before making a pull request, please consider the following:
-* The tutorial you want to add should not already exist
-* The tutorial should be correctly placed under the appropriate technology
-* If the tutorial isn't free, add the price. Even medium.com premium content. 
-* No URL shorteners. 
-
-#### Todo
-- [ ] Add more technologies
-- [ ] More Angular, React and Vanilla Javascript
-
 ### Javascript
 | What you build| Source | Price |
 |--|--|--|
@@ -154,3 +142,14 @@ Before making a pull request, please consider the following:
 |--|--|--|
 | Grid Accordion with jQuery |https://css-tricks.com/grid-accordion-with-jquery/ ||
 
+
+### Contribution 
+Before making a pull request, please consider the following:
+* The tutorial you want to add should not already exist
+* The tutorial should be correctly placed under the appropriate technology
+* If the tutorial isn't free, add the price. Even medium.com premium content. 
+* No URL shorteners. 
+
+#### Todo
+- [ ] Add more technologies
+- [ ] More Angular, React and Vanilla Javascript
