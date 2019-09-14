@@ -5,7 +5,7 @@ Frontend development is challenging to learn. What helped me a lot was not only 
 ### Support this Project
 If this list helps you, I'd be happy if you'd support me. You can buy stickers or support me directly via buy me a coffee. This enables me to extend this list, keep this list up to date and to do many more such projects. 
 
-You can do this either by buying [stickers or T-shirts](https://teespring.com/stores/webdev-4) or by supporting me directly via [Buy me a Coffee](https://www.buymeacoffee.com/binconsole)
+You can do this via [Buy me a Coffee](https://www.buymeacoffee.com/binconsole)
 
 Thank you.
 
