@@ -30,7 +30,7 @@ Before making a pull request, please consider the following:
 | Todo List App with JavaScript |https://freshman.tech/todo-list/  ||
 | Simple Calculator App with JavaScript |https://freshman.tech/calculator/  ||
 | Instant Search With Vanilla Javascript | https://www.florin-pop.com/blog/2019/06/vanilla-javascript-instant-search/ ||
-| Simple Chrome Extension in Vanilla JavaScript | https://medium.com/javascript-in-plain-english/ https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb ||
+| Simple Chrome Extension in Vanilla JavaScript | https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb ||
 | Memory Game in Vanilla JavaScript | https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae ||
 
 ### Javascript Games
